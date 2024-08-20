@@ -1,0 +1,30 @@
+services:
+  db:
+    container_name: graph-db
+    image: neo4j
+    volumes:
+      - ./db_data/data:/data
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    networks:
+      - graph_network
+
+  web:
+    container_name: web-app
+    build: 
+      context: ./web
+      dockerfile: Dockerfile
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./web:/web
+      - ./:/workspace
+    ports:
+      - "5173:5173"
+    networks:
+      - graph_network
+    
+
+networks:
+  graph_network:
