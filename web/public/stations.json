@@ -1,0 +1,2090 @@
+[
+    {
+        "no": 1,
+        "line": "1",
+        "name": "Бульвар Рокоссовского",
+        "position_z": -8.0,
+        "position_x": 37.7342,
+        "position_y": 55.8148
+    },
+    {
+        "no": 2,
+        "line": "1",
+        "name": "Черкизовская",
+        "position_z": -9.0,
+        "position_x": 37.7448,
+        "position_y": 55.8038
+    },
+    {
+        "no": 3,
+        "line": "1",
+        "name": "Преображенская площадь",
+        "position_z": -8.0,
+        "position_x": 37.7151,
+        "position_y": 55.7963
+    },
+    {
+        "no": 4,
+        "line": "1",
+        "name": "Сокольники",
+        "position_z": -9.0,
+        "position_x": 37.6802,
+        "position_y": 55.7888
+    },
+    {
+        "no": 5,
+        "line": "1",
+        "name": "Красносельская",
+        "position_z": -8.0,
+        "position_x": 37.6673,
+        "position_y": 55.7801
+    },
+    {
+        "no": 6,
+        "line": "1",
+        "name": "Комсомольская",
+        "position_z": -8.0,
+        "position_x": 37.6562,
+        "position_y": 55.7753
+    },
+    {
+        "no": 7,
+        "line": "1",
+        "name": "Красные Ворота",
+        "position_z": -31.0,
+        "position_x": 37.6487,
+        "position_y": 55.769
+    },
+    {
+        "no": 8,
+        "line": "1",
+        "name": "Чистые пруды",
+        "position_z": -35.0,
+        "position_x": 37.6388,
+        "position_y": 55.7657
+    },
+    {
+        "no": 9,
+        "line": "1",
+        "name": "Лубянка",
+        "position_z": -32.5,
+        "position_x": 37.6272,
+        "position_y": 55.7597
+    },
+    {
+        "no": 10,
+        "line": "1",
+        "name": "Охотный Ряд",
+        "position_z": -15.0,
+        "position_x": 37.6166,
+        "position_y": 55.7577
+    },
+    {
+        "no": 11,
+        "line": "1",
+        "name": "Библиотека имени Ленина",
+        "position_z": -12.0,
+        "position_x": 37.61,
+        "position_y": 55.7512
+    },
+    {
+        "no": 12,
+        "line": "1",
+        "name": "Кропоткинская",
+        "position_z": -13.0,
+        "position_x": 37.6037,
+        "position_y": 55.7453
+    },
+    {
+        "no": 13,
+        "line": "1",
+        "name": "Парк культуры",
+        "position_z": -10.5,
+        "position_x": 37.5943,
+        "position_y": 55.7356
+    },
+    {
+        "no": 14,
+        "line": "1",
+        "name": "Фрунзенская",
+        "position_z": -42.0,
+        "position_x": 37.5786,
+        "position_y": 55.7267
+    },
+    {
+        "no": 15,
+        "line": "1",
+        "name": "Спортивная",
+        "position_z": -42.0,
+        "position_x": 37.5639,
+        "position_y": 55.7233
+    },
+    {
+        "no": 16,
+        "line": "1",
+        "name": "Воробьевы горы",
+        "position_z": 10.0,
+        "position_x": 37.5592,
+        "position_y": 55.7103
+    },
+    {
+        "no": 17,
+        "line": "1",
+        "name": "Университет",
+        "position_z": -26.5,
+        "position_x": 37.5333,
+        "position_y": 55.6926
+    },
+    {
+        "no": 18,
+        "line": "1",
+        "name": "Проспект Вернадского",
+        "position_z": -8.0,
+        "position_x": 37.506,
+        "position_y": 55.6771
+    },
+    {
+        "no": 19,
+        "line": "1",
+        "name": "Юго-Западная",
+        "position_z": -8.0,
+        "position_x": 37.4833,
+        "position_y": 55.6637
+    },
+    {
+        "no": 20,
+        "line": "1",
+        "name": "Тропарево",
+        "position_z": -12.0,
+        "position_x": 37.4725,
+        "position_y": 55.6459
+    },
+    {
+        "no": 21,
+        "line": "1",
+        "name": "Румянцево",
+        "position_z": -12.0,
+        "position_x": 37.4419,
+        "position_y": 55.633
+    },
+    {
+        "no": 22,
+        "line": "1",
+        "name": "Саларьево",
+        "position_z": -12.0,
+        "position_x": 37.4242,
+        "position_y": 55.6219
+    },
+    {
+        "no": 23,
+        "line": "1",
+        "name": "Филатов Луг",
+        "position_z": 0.0,
+        "position_x": 37.407645,
+        "position_y": 55.601367
+    },
+    {
+        "no": 24,
+        "line": "1",
+        "name": "Прокшино",
+        "position_z": 0.0,
+        "position_x": 37.433802,
+        "position_y": 55.586242
+    },
+    {
+        "no": 25,
+        "line": "1",
+        "name": "Ольховая",
+        "position_z": -12.0,
+        "position_x": 37.459332,
+        "position_y": 55.568643
+    },
+    {
+        "no": 26,
+        "line": "1",
+        "name": "Новомосковская",
+        "position_z": -8.0,
+        "position_x": 37.46822,
+        "position_y": 55.560396
+    },
+    {
+        "no": 27,
+        "line": "2",
+        "name": "Ховрино",
+        "position_z": -14.0,
+        "position_x": 37.481493,
+        "position_y": 55.878764
+    },
+    {
+        "no": 28,
+        "line": "2",
+        "name": "Беломорская",
+        "position_z": -18.0,
+        "position_x": 37.4764,
+        "position_y": 55.8658
+    },
+    {
+        "no": 29,
+        "line": "2",
+        "name": "Речной вокзал",
+        "position_z": -6.0,
+        "position_x": 37.4761,
+        "position_y": 55.8549
+    },
+    {
+        "no": 30,
+        "line": "2",
+        "name": "Водный стадион",
+        "position_z": -6.0,
+        "position_x": 37.4867,
+        "position_y": 55.8398
+    },
+    {
+        "no": 31,
+        "line": "2",
+        "name": "Войковская",
+        "position_z": -7.0,
+        "position_x": 37.498,
+        "position_y": 55.819
+    },
+    {
+        "no": 32,
+        "line": "2",
+        "name": "Сокол",
+        "position_z": -9.6,
+        "position_x": 37.5153,
+        "position_y": 55.8051
+    },
+    {
+        "no": 33,
+        "line": "2",
+        "name": "Аэропорт",
+        "position_z": -10.0,
+        "position_x": 37.5329,
+        "position_y": 55.8003
+    },
+    {
+        "no": 34,
+        "line": "2",
+        "name": "Динамо",
+        "position_z": -39.6,
+        "position_x": 37.558,
+        "position_y": 55.7897
+    },
+    {
+        "no": 35,
+        "line": "2",
+        "name": "Белорусская",
+        "position_z": -33.1,
+        "position_x": 37.5835,
+        "position_y": 55.7767
+    },
+    {
+        "no": 36,
+        "line": "2",
+        "name": "Маяковская",
+        "position_z": -33.1,
+        "position_x": 37.5958,
+        "position_y": 55.7701
+    },
+    {
+        "no": 37,
+        "line": "2",
+        "name": "Тверская",
+        "position_z": -42.0,
+        "position_x": 37.6065,
+        "position_y": 55.7647
+    },
+    {
+        "no": 38,
+        "line": "2",
+        "name": "Театральная",
+        "position_z": -33.9,
+        "position_x": 37.619,
+        "position_y": 55.7578
+    },
+    {
+        "no": 39,
+        "line": "2",
+        "name": "Новокузнецкая",
+        "position_z": -37.5,
+        "position_x": 37.6295,
+        "position_y": 55.7415
+    },
+    {
+        "no": 40,
+        "line": "2",
+        "name": "Павелецкая",
+        "position_z": -33.5,
+        "position_x": 37.6377,
+        "position_y": 55.7305
+    },
+    {
+        "no": 41,
+        "line": "2",
+        "name": "Автозаводская",
+        "position_z": -11.0,
+        "position_x": 37.6576,
+        "position_y": 55.7074
+    },
+    {
+        "no": 42,
+        "line": "2",
+        "name": "Технопарк",
+        "position_z": 0.0,
+        "position_x": 37.664379,
+        "position_y": 55.693861
+    },
+    {
+        "no": 43,
+        "line": "2",
+        "name": "Коломенская",
+        "position_z": -9.0,
+        "position_x": 37.6638,
+        "position_y": 55.6785
+    },
+    {
+        "no": 44,
+        "line": "2",
+        "name": "Каширская",
+        "position_z": -7.0,
+        "position_x": 37.6487,
+        "position_y": 55.6551
+    },
+    {
+        "no": 45,
+        "line": "2",
+        "name": "Кантемировская",
+        "position_z": -8.0,
+        "position_x": 37.6564,
+        "position_y": 55.6358
+    },
+    {
+        "no": 46,
+        "line": "2",
+        "name": "Царицыно",
+        "position_z": -8.0,
+        "position_x": 37.6694,
+        "position_y": 55.6214
+    },
+    {
+        "no": 47,
+        "line": "2",
+        "name": "Орехово",
+        "position_z": -9.0,
+        "position_x": 37.6949,
+        "position_y": 55.6132
+    },
+    {
+        "no": 48,
+        "line": "2",
+        "name": "Домодедовская",
+        "position_z": -9.5,
+        "position_x": 37.7186,
+        "position_y": 55.6108
+    },
+    {
+        "no": 49,
+        "line": "2",
+        "name": "Красногвардейская",
+        "position_z": -9.0,
+        "position_x": 37.7444,
+        "position_y": 55.6137
+    },
+    {
+        "no": 50,
+        "line": "2",
+        "name": "Алма-Атинская",
+        "position_z": -10.0,
+        "position_x": 37.766,
+        "position_y": 55.6326
+    },
+    {
+        "no": 51,
+        "line": "3",
+        "name": "Пятницкое шоссе",
+        "position_z": -11.0,
+        "position_x": 37.3544,
+        "position_y": 55.8563
+    },
+    {
+        "no": 52,
+        "line": "3",
+        "name": "Митино",
+        "position_z": -14.0,
+        "position_x": 37.3622,
+        "position_y": 55.8457
+    },
+    {
+        "no": 53,
+        "line": "3",
+        "name": "Волоколамская",
+        "position_z": -14.0,
+        "position_x": 37.3822,
+        "position_y": 55.8354
+    },
+    {
+        "no": 54,
+        "line": "3",
+        "name": "Мякинино",
+        "position_z": 0.0,
+        "position_x": 37.3852,
+        "position_y": 55.8252
+    },
+    {
+        "no": 55,
+        "line": "3",
+        "name": "Строгино",
+        "position_z": -8.0,
+        "position_x": 37.4031,
+        "position_y": 55.8038
+    },
+    {
+        "no": 56,
+        "line": "3",
+        "name": "Крылатское",
+        "position_z": -9.5,
+        "position_x": 37.4081,
+        "position_y": 55.7567
+    },
+    {
+        "no": 57,
+        "line": "3",
+        "name": "Молодежная",
+        "position_z": -6.5,
+        "position_x": 37.4168,
+        "position_y": 55.7408
+    },
+    {
+        "no": 58,
+        "line": "3",
+        "name": "Кунцевская",
+        "position_z": 0.0,
+        "position_x": 37.4459,
+        "position_y": 55.7307
+    },
+    {
+        "no": 59,
+        "line": "3",
+        "name": "Славянский бульвар",
+        "position_z": -8.5,
+        "position_x": 37.4706,
+        "position_y": 55.7296
+    },
+    {
+        "no": 60,
+        "line": "3",
+        "name": "Парк Победы",
+        "position_z": -73.6,
+        "position_x": 37.5182,
+        "position_y": 55.7362
+    },
+    {
+        "no": 61,
+        "line": "3",
+        "name": "Киевская",
+        "position_z": -38.0,
+        "position_x": 37.565509,
+        "position_y": 55.744339
+    },
+    {
+        "no": 62,
+        "line": "3",
+        "name": "Смоленская",
+        "position_z": -50.0,
+        "position_x": 37.5823,
+        "position_y": 55.7474
+    },
+    {
+        "no": 63,
+        "line": "3",
+        "name": "Арбатская",
+        "position_z": -41.0,
+        "position_x": 37.6061,
+        "position_y": 55.7522
+    },
+    {
+        "no": 64,
+        "line": "3",
+        "name": "Площадь Революции",
+        "position_z": -33.6,
+        "position_x": 37.6216,
+        "position_y": 55.7566
+    },
+    {
+        "no": 65,
+        "line": "3",
+        "name": "Курская",
+        "position_z": -30.7,
+        "position_x": 37.658204,
+        "position_y": 55.758039
+    },
+    {
+        "no": 66,
+        "line": "3",
+        "name": "Бауманская",
+        "position_z": -32.5,
+        "position_x": 37.6806,
+        "position_y": 55.773
+    },
+    {
+        "no": 67,
+        "line": "3",
+        "name": "Электрозаводская",
+        "position_z": -31.5,
+        "position_x": 37.7037,
+        "position_y": 55.7817
+    },
+    {
+        "no": 68,
+        "line": "3",
+        "name": "Семеновская",
+        "position_z": -40.0,
+        "position_x": 37.7208,
+        "position_y": 55.7833
+    },
+    {
+        "no": 69,
+        "line": "3",
+        "name": "Партизанская",
+        "position_z": -9.0,
+        "position_x": 37.7506,
+        "position_y": 55.7886
+    },
+    {
+        "no": 70,
+        "line": "3",
+        "name": "Измайловская",
+        "position_z": 0.0,
+        "position_x": 37.7814,
+        "position_y": 55.7878
+    },
+    {
+        "no": 71,
+        "line": "3",
+        "name": "Первомайская",
+        "position_z": -7.0,
+        "position_x": 37.7993,
+        "position_y": 55.7948
+    },
+    {
+        "no": 72,
+        "line": "3",
+        "name": "Щелковская",
+        "position_z": -8.0,
+        "position_x": 37.7986,
+        "position_y": 55.8094
+    },
+    {
+        "no": 73,
+        "line": "4",
+        "name": "Кунцевская",
+        "position_z": 0.0,
+        "position_x": 37.4459,
+        "position_y": 55.7307
+    },
+    {
+        "no": 74,
+        "line": "4",
+        "name": "Пионерская",
+        "position_z": 0.0,
+        "position_x": 37.4671,
+        "position_y": 55.736
+    },
+    {
+        "no": 75,
+        "line": "4",
+        "name": "Филевский парк",
+        "position_z": 0.0,
+        "position_x": 37.4833,
+        "position_y": 55.7396
+    },
+    {
+        "no": 76,
+        "line": "4",
+        "name": "Багратионовская",
+        "position_z": 0.0,
+        "position_x": 37.4977,
+        "position_y": 55.7438
+    },
+    {
+        "no": 77,
+        "line": "4",
+        "name": "Фили",
+        "position_z": 0.0,
+        "position_x": 37.515,
+        "position_y": 55.746
+    },
+    {
+        "no": 78,
+        "line": "4",
+        "name": "Кутузовская",
+        "position_z": 0.0,
+        "position_x": 37.5344,
+        "position_y": 55.7399
+    },
+    {
+        "no": 79,
+        "line": "4",
+        "name": "Студенческая",
+        "position_z": 0.0,
+        "position_x": 37.5483,
+        "position_y": 55.7388
+    },
+    {
+        "no": 80,
+        "line": "4",
+        "name": "Москва-Сити",
+        "position_z": -25.0,
+        "position_x": 37.5339,
+        "position_y": 55.7483
+    },
+    {
+        "no": 81,
+        "line": "4",
+        "name": "Деловой центр",
+        "position_z": -25.0,
+        "position_x": 37.541074,
+        "position_y": 55.749976
+    },
+    {
+        "no": 82,
+        "line": "4",
+        "name": "Киевская",
+        "position_z": -8.7,
+        "position_x": 37.5655,
+        "position_y": 55.7436
+    },
+    {
+        "no": 83,
+        "line": "4",
+        "name": "Смоленская",
+        "position_z": -8.0,
+        "position_x": 37.5825,
+        "position_y": 55.7488
+    },
+    {
+        "no": 84,
+        "line": "4",
+        "name": "Арбатская",
+        "position_z": -8.0,
+        "position_x": 37.6007,
+        "position_y": 55.7518
+    },
+    {
+        "no": 85,
+        "line": "4",
+        "name": "Александровский сад",
+        "position_z": -7.0,
+        "position_x": 37.60879,
+        "position_y": 55.752433
+    },
+    {
+        "no": 86,
+        "line": "5",
+        "name": "Парк культуры",
+        "position_z": -40.0,
+        "position_x": 37.5915,
+        "position_y": 55.7357
+    },
+    {
+        "no": 87,
+        "line": "5",
+        "name": "Октябрьская",
+        "position_z": -40.0,
+        "position_x": 37.6091,
+        "position_y": 55.7297
+    },
+    {
+        "no": 88,
+        "line": "5",
+        "name": "Добрынинская",
+        "position_z": -35.5,
+        "position_x": 37.6243,
+        "position_y": 55.7291
+    },
+    {
+        "no": 89,
+        "line": "5",
+        "name": "Павелецкая",
+        "position_z": -40.0,
+        "position_x": 37.6379,
+        "position_y": 55.7318
+    },
+    {
+        "no": 90,
+        "line": "5",
+        "name": "Таганская",
+        "position_z": -53.0,
+        "position_x": 37.6517,
+        "position_y": 55.7418
+    },
+    {
+        "no": 91,
+        "line": "5",
+        "name": "Курская",
+        "position_z": -40.0,
+        "position_x": 37.6595,
+        "position_y": 55.757
+    },
+    {
+        "no": 92,
+        "line": "5",
+        "name": "Комсомольская",
+        "position_z": -37.0,
+        "position_x": 37.6549,
+        "position_y": 55.7748
+    },
+    {
+        "no": 93,
+        "line": "5",
+        "name": "Проспект Мира",
+        "position_z": -40.0,
+        "position_x": 37.6318,
+        "position_y": 55.7798
+    },
+    {
+        "no": 94,
+        "line": "5",
+        "name": "Новослободская",
+        "position_z": -40.0,
+        "position_x": 37.6028,
+        "position_y": 55.7799
+    },
+    {
+        "no": 95,
+        "line": "5",
+        "name": "Белорусская",
+        "position_z": -42.5,
+        "position_x": 37.5844,
+        "position_y": 55.7764
+    },
+    {
+        "no": 96,
+        "line": "5",
+        "name": "Краснопресненская",
+        "position_z": -35.5,
+        "position_x": 37.5774,
+        "position_y": 55.7613
+    },
+    {
+        "no": 97,
+        "line": "5",
+        "name": "Киевская",
+        "position_z": -53.0,
+        "position_x": 37.565591,
+        "position_y": 55.744654
+    },
+    {
+        "no": 98,
+        "line": "6",
+        "name": "Медведково",
+        "position_z": -10.0,
+        "position_x": 37.6613,
+        "position_y": 55.8872
+    },
+    {
+        "no": 99,
+        "line": "6",
+        "name": "Бабушкинская",
+        "position_z": -10.0,
+        "position_x": 37.6644,
+        "position_y": 55.8694
+    },
+    {
+        "no": 100,
+        "line": "6",
+        "name": "Свиблово",
+        "position_z": -8.0,
+        "position_x": 37.6527,
+        "position_y": 55.8552
+    },
+    {
+        "no": 101,
+        "line": "6",
+        "name": "Ботанический сад",
+        "position_z": -7.0,
+        "position_x": 37.6383,
+        "position_y": 55.8449
+    },
+    {
+        "no": 102,
+        "line": "6",
+        "name": "ВДНХ",
+        "position_z": -53.5,
+        "position_x": 37.6411,
+        "position_y": 55.8211
+    },
+    {
+        "no": 103,
+        "line": "6",
+        "name": "Алексеевская",
+        "position_z": -51.0,
+        "position_x": 37.639,
+        "position_y": 55.8088
+    },
+    {
+        "no": 104,
+        "line": "6",
+        "name": "Рижская",
+        "position_z": -46.0,
+        "position_x": 37.6362,
+        "position_y": 55.7936
+    },
+    {
+        "no": 105,
+        "line": "6",
+        "name": "Проспект Мира",
+        "position_z": -50.0,
+        "position_x": 37.6318,
+        "position_y": 55.7812
+    },
+    {
+        "no": 106,
+        "line": "6",
+        "name": "Сухаревская",
+        "position_z": -43.0,
+        "position_x": 37.6319,
+        "position_y": 55.7733
+    },
+    {
+        "no": 107,
+        "line": "6",
+        "name": "Тургеневская",
+        "position_z": -49.0,
+        "position_x": 37.6374,
+        "position_y": 55.7661
+    },
+    {
+        "no": 108,
+        "line": "6",
+        "name": "Китай-город",
+        "position_z": -29.0,
+        "position_x": 37.6333,
+        "position_y": 55.7553
+    },
+    {
+        "no": 109,
+        "line": "6",
+        "name": "Третьяковская",
+        "position_z": -46.0,
+        "position_x": 37.6274,
+        "position_y": 55.7412
+    },
+    {
+        "no": 110,
+        "line": "6",
+        "name": "Октябрьская",
+        "position_z": -50.0,
+        "position_x": 37.6112,
+        "position_y": 55.7306
+    },
+    {
+        "no": 111,
+        "line": "6",
+        "name": "Шаболовская",
+        "position_z": -46.5,
+        "position_x": 37.6083,
+        "position_y": 55.7198
+    },
+    {
+        "no": 112,
+        "line": "6",
+        "name": "Ленинский проспект",
+        "position_z": -16.0,
+        "position_x": 37.5861,
+        "position_y": 55.7077
+    },
+    {
+        "no": 113,
+        "line": "6",
+        "name": "Академическая",
+        "position_z": -8.5,
+        "position_x": 37.5733,
+        "position_y": 55.6877
+    },
+    {
+        "no": 114,
+        "line": "6",
+        "name": "Профсоюзная",
+        "position_z": -7.0,
+        "position_x": 37.5627,
+        "position_y": 55.678
+    },
+    {
+        "no": 115,
+        "line": "6",
+        "name": "Новые Черемушки",
+        "position_z": -7.0,
+        "position_x": 37.5544,
+        "position_y": 55.6702
+    },
+    {
+        "no": 116,
+        "line": "6",
+        "name": "Калужская",
+        "position_z": -10.0,
+        "position_x": 37.5405,
+        "position_y": 55.6571
+    },
+    {
+        "no": 117,
+        "line": "6",
+        "name": "Беляево",
+        "position_z": -12.0,
+        "position_x": 37.5257,
+        "position_y": 55.6428
+    },
+    {
+        "no": 118,
+        "line": "6",
+        "name": "Коньково",
+        "position_z": -8.0,
+        "position_x": 37.5188,
+        "position_y": 55.6333
+    },
+    {
+        "no": 119,
+        "line": "6",
+        "name": "Теплый Стан",
+        "position_z": -8.0,
+        "position_x": 37.5082,
+        "position_y": 55.6191
+    },
+    {
+        "no": 120,
+        "line": "6",
+        "name": "Ясенево",
+        "position_z": -8.0,
+        "position_x": 37.5333,
+        "position_y": 55.6063
+    },
+    {
+        "no": 121,
+        "line": "6",
+        "name": "Новоясеневская",
+        "position_z": -7.0,
+        "position_x": 37.5541,
+        "position_y": 55.601
+    },
+    {
+        "no": 122,
+        "line": "7",
+        "name": "Планерная",
+        "position_z": -6.0,
+        "position_x": 37.4364,
+        "position_y": 55.8607
+    },
+    {
+        "no": 123,
+        "line": "7",
+        "name": "Сходненская",
+        "position_z": -6.0,
+        "position_x": 37.4396,
+        "position_y": 55.8505
+    },
+    {
+        "no": 124,
+        "line": "7",
+        "name": "Тушинская",
+        "position_z": -10.5,
+        "position_x": 37.4368,
+        "position_y": 55.8267
+    },
+    {
+        "no": 125,
+        "line": "7",
+        "name": "Спартак",
+        "position_z": -10.0,
+        "position_x": 37.435751,
+        "position_y": 55.818248
+    },
+    {
+        "no": 126,
+        "line": "7",
+        "name": "Щукинская",
+        "position_z": -13.0,
+        "position_x": 37.4641,
+        "position_y": 55.8086
+    },
+    {
+        "no": 127,
+        "line": "7",
+        "name": "Октябрьское Поле",
+        "position_z": -9.0,
+        "position_x": 37.4935,
+        "position_y": 55.7935
+    },
+    {
+        "no": 128,
+        "line": "7",
+        "name": "Полежаевская",
+        "position_z": -10.0,
+        "position_x": 37.5192,
+        "position_y": 55.7775
+    },
+    {
+        "no": 129,
+        "line": "7",
+        "name": "Беговая",
+        "position_z": -9.0,
+        "position_x": 37.5468,
+        "position_y": 55.7738
+    },
+    {
+        "no": 130,
+        "line": "7",
+        "name": "Улица 1905 года",
+        "position_z": -11.0,
+        "position_x": 37.5613,
+        "position_y": 55.765
+    },
+    {
+        "no": 131,
+        "line": "7",
+        "name": "Баррикадная",
+        "position_z": -30.0,
+        "position_x": 37.5795,
+        "position_y": 55.7612
+    },
+    {
+        "no": 132,
+        "line": "7",
+        "name": "Пушкинская",
+        "position_z": -51.0,
+        "position_x": 37.6079,
+        "position_y": 55.765
+    },
+    {
+        "no": 133,
+        "line": "7",
+        "name": "Кузнецкий Мост",
+        "position_z": -39.5,
+        "position_x": 37.6259,
+        "position_y": 55.7606
+    },
+    {
+        "no": 134,
+        "line": "7",
+        "name": "Китай-город",
+        "position_z": -29.0,
+        "position_x": 37.6333,
+        "position_y": 55.7553
+    },
+    {
+        "no": 135,
+        "line": "7",
+        "name": "Таганская",
+        "position_z": -36.0,
+        "position_x": 37.6522,
+        "position_y": 55.7402
+    },
+    {
+        "no": 136,
+        "line": "7",
+        "name": "Пролетарская",
+        "position_z": -9.0,
+        "position_x": 37.6659,
+        "position_y": 55.7319
+    },
+    {
+        "no": 137,
+        "line": "7",
+        "name": "Волгоградский проспект",
+        "position_z": -8.0,
+        "position_x": 37.6869,
+        "position_y": 55.7253
+    },
+    {
+        "no": 138,
+        "line": "7",
+        "name": "Текстильщики",
+        "position_z": -13.0,
+        "position_x": 37.7316,
+        "position_y": 55.7088
+    },
+    {
+        "no": 139,
+        "line": "7",
+        "name": "Кузьминки",
+        "position_z": -8.0,
+        "position_x": 37.7656,
+        "position_y": 55.7056
+    },
+    {
+        "no": 140,
+        "line": "7",
+        "name": "Рязанский проспект",
+        "position_z": -6.0,
+        "position_x": 37.7933,
+        "position_y": 55.717
+    },
+    {
+        "no": 141,
+        "line": "7",
+        "name": "Выхино",
+        "position_z": 0.0,
+        "position_x": 37.8181,
+        "position_y": 55.7156
+    },
+    {
+        "no": 142,
+        "line": "7",
+        "name": "Лермонтовский проспект",
+        "position_z": -12.0,
+        "position_x": 37.8525,
+        "position_y": 55.7013
+    },
+    {
+        "no": 143,
+        "line": "7",
+        "name": "Жулебино",
+        "position_z": -15.0,
+        "position_x": 37.8563,
+        "position_y": 55.6855
+    },
+    {
+        "no": 144,
+        "line": "7",
+        "name": "Котельники",
+        "position_z": -15.0,
+        "position_x": 37.8582,
+        "position_y": 55.6743
+    },
+    {
+        "no": 145,
+        "line": "8",
+        "name": "Третьяковская",
+        "position_z": -46.0,
+        "position_x": 37.6274,
+        "position_y": 55.7412
+    },
+    {
+        "no": 146,
+        "line": "8",
+        "name": "Марксистская",
+        "position_z": -60.0,
+        "position_x": 37.6543,
+        "position_y": 55.7411
+    },
+    {
+        "no": 147,
+        "line": "8",
+        "name": "Площадь Ильича",
+        "position_z": -46.0,
+        "position_x": 37.6824,
+        "position_y": 55.7472
+    },
+    {
+        "no": 148,
+        "line": "8",
+        "name": "Авиамоторная",
+        "position_z": -53.0,
+        "position_x": 37.7191,
+        "position_y": 55.7524
+    },
+    {
+        "no": 149,
+        "line": "8",
+        "name": "Шоссе Энтузиастов",
+        "position_z": -53.0,
+        "position_x": 37.75,
+        "position_y": 55.7576
+    },
+    {
+        "no": 150,
+        "line": "8",
+        "name": "Перово",
+        "position_z": -9.0,
+        "position_x": 37.7866,
+        "position_y": 55.7511
+    },
+    {
+        "no": 151,
+        "line": "8",
+        "name": "Новогиреево",
+        "position_z": -9.0,
+        "position_x": 37.8166,
+        "position_y": 55.7517
+    },
+    {
+        "no": 152,
+        "line": "8",
+        "name": "Новокосино",
+        "position_z": -9.0,
+        "position_x": 37.8638,
+        "position_y": 55.7451
+    },
+    {
+        "no": 153,
+        "line": "8.5",
+        "name": "Деловой центр",
+        "position_z": -25.0,
+        "position_x": 37.5395,
+        "position_y": 55.7491
+    },
+    {
+        "no": 154,
+        "line": "8.5",
+        "name": "Парк Победы",
+        "position_z": -73.6,
+        "position_x": 37.5182,
+        "position_y": 55.7362
+    },
+    {
+        "no": 155,
+        "line": "8.5",
+        "name": "Минская",
+        "position_z": -15.0,
+        "position_x": 37.496675,
+        "position_y": 55.724818
+    },
+    {
+        "no": 156,
+        "line": "8.5",
+        "name": "Ломоносовский проспект",
+        "position_z": -15.0,
+        "position_x": 37.516196,
+        "position_y": 55.707119
+    },
+    {
+        "no": 157,
+        "line": "8.5",
+        "name": "Раменки",
+        "position_z": -15.0,
+        "position_x": 37.498477,
+        "position_y": 55.697574
+    },
+    {
+        "no": 158,
+        "line": "8.5",
+        "name": "Мичуринский проспект",
+        "position_z": -13.0,
+        "position_x": 37.483044,
+        "position_y": 55.689484
+    },
+    {
+        "no": 159,
+        "line": "8.5",
+        "name": "Озерная",
+        "position_z": -25.0,
+        "position_x": 37.448459,
+        "position_y": 55.670452
+    },
+    {
+        "no": 160,
+        "line": "8.5",
+        "name": "Говорово",
+        "position_z": -14.0,
+        "position_x": 37.417254,
+        "position_y": 55.659548
+    },
+    {
+        "no": 161,
+        "line": "8.5",
+        "name": "Солнцево",
+        "position_z": -13.0,
+        "position_x": 37.391081,
+        "position_y": 55.649578
+    },
+    {
+        "no": 162,
+        "line": "8.5",
+        "name": "Боровское шоссе",
+        "position_z": -20.0,
+        "position_x": 37.370396,
+        "position_y": 55.647746
+    },
+    {
+        "no": 163,
+        "line": "8.5",
+        "name": "Новопеределкино",
+        "position_z": -16.0,
+        "position_x": 37.355248,
+        "position_y": 55.639645
+    },
+    {
+        "no": 164,
+        "line": "8.5",
+        "name": "Рассказовка",
+        "position_z": -12.0,
+        "position_x": 37.335158,
+        "position_y": 55.634053
+    },
+    {
+        "no": 165,
+        "line": "8.5",
+        "name": "Пыхтино",
+        "position_z": 0.0,
+        "position_x": 37.298,
+        "position_y": 55.625
+    },
+    {
+        "no": 166,
+        "line": "8.5",
+        "name": "Аэропорт Внуково",
+        "position_z": 0.0,
+        "position_x": 37.287702,
+        "position_y": 55.607087
+    },
+    {
+        "no": 167,
+        "line": "9",
+        "name": "Алтуфьево",
+        "position_z": -9.0,
+        "position_x": 37.587,
+        "position_y": 55.898
+    },
+    {
+        "no": 168,
+        "line": "9",
+        "name": "Бибирево",
+        "position_z": -9.5,
+        "position_x": 37.6034,
+        "position_y": 55.8838
+    },
+    {
+        "no": 169,
+        "line": "9",
+        "name": "Отрадное",
+        "position_z": -9.0,
+        "position_x": 37.6047,
+        "position_y": 55.8633
+    },
+    {
+        "no": 170,
+        "line": "9",
+        "name": "Владыкино",
+        "position_z": -10.5,
+        "position_x": 37.5899,
+        "position_y": 55.8473
+    },
+    {
+        "no": 171,
+        "line": "9",
+        "name": "Петровско-Разумовская",
+        "position_z": -61.0,
+        "position_x": 37.5745,
+        "position_y": 55.8351
+    },
+    {
+        "no": 172,
+        "line": "9",
+        "name": "Тимирязевская",
+        "position_z": -63.5,
+        "position_x": 37.5765,
+        "position_y": 55.8176
+    },
+    {
+        "no": 173,
+        "line": "9",
+        "name": "Дмитровская",
+        "position_z": -59.0,
+        "position_x": 37.5817,
+        "position_y": 55.8069
+    },
+    {
+        "no": 174,
+        "line": "9",
+        "name": "Савеловская",
+        "position_z": -52.0,
+        "position_x": 37.5885,
+        "position_y": 55.7927
+    },
+    {
+        "no": 175,
+        "line": "9",
+        "name": "Менделеевская",
+        "position_z": -48.5,
+        "position_x": 37.6011,
+        "position_y": 55.781
+    },
+    {
+        "no": 176,
+        "line": "9",
+        "name": "Цветной бульвар",
+        "position_z": -50.0,
+        "position_x": 37.6187,
+        "position_y": 55.7708
+    },
+    {
+        "no": 177,
+        "line": "9",
+        "name": "Чеховская",
+        "position_z": -62.0,
+        "position_x": 37.609087,
+        "position_y": 55.764821
+    },
+    {
+        "no": 178,
+        "line": "9",
+        "name": "Боровицкая",
+        "position_z": -46.5,
+        "position_x": 37.6072,
+        "position_y": 55.7511
+    },
+    {
+        "no": 179,
+        "line": "9",
+        "name": "Полянка",
+        "position_z": -36.5,
+        "position_x": 37.618,
+        "position_y": 55.7379
+    },
+    {
+        "no": 180,
+        "line": "9",
+        "name": "Серпуховская",
+        "position_z": -43.0,
+        "position_x": 37.6246,
+        "position_y": 55.728
+    },
+    {
+        "no": 181,
+        "line": "9",
+        "name": "Тульская",
+        "position_z": -9.5,
+        "position_x": 37.6229,
+        "position_y": 55.7087
+    },
+    {
+        "no": 182,
+        "line": "9",
+        "name": "Нагатинская",
+        "position_z": -13.5,
+        "position_x": 37.6224,
+        "position_y": 55.683
+    },
+    {
+        "no": 183,
+        "line": "9",
+        "name": "Нагорная",
+        "position_z": -9.0,
+        "position_x": 37.6104,
+        "position_y": 55.6724
+    },
+    {
+        "no": 184,
+        "line": "9",
+        "name": "Нахимовский проспект",
+        "position_z": -9.5,
+        "position_x": 37.6055,
+        "position_y": 55.6627
+    },
+    {
+        "no": 185,
+        "line": "9",
+        "name": "Севастопольская",
+        "position_z": -13.0,
+        "position_x": 37.5984,
+        "position_y": 55.6524
+    },
+    {
+        "no": 186,
+        "line": "9",
+        "name": "Чертановская",
+        "position_z": -10.5,
+        "position_x": 37.6067,
+        "position_y": 55.6405
+    },
+    {
+        "no": 187,
+        "line": "9",
+        "name": "Южная",
+        "position_z": -10.0,
+        "position_x": 37.609,
+        "position_y": 55.6224
+    },
+    {
+        "no": 188,
+        "line": "9",
+        "name": "Пражская",
+        "position_z": -9.5,
+        "position_x": 37.6044,
+        "position_y": 55.6124
+    },
+    {
+        "no": 189,
+        "line": "9",
+        "name": "Улица Академика Янгеля",
+        "position_z": -8.0,
+        "position_x": 37.6004,
+        "position_y": 55.5949
+    },
+    {
+        "no": 190,
+        "line": "9",
+        "name": "Аннино",
+        "position_z": -8.0,
+        "position_x": 37.5966,
+        "position_y": 55.5828
+    },
+    {
+        "no": 191,
+        "line": "9",
+        "name": "Бульвар Дмитрия Донского",
+        "position_z": -10.0,
+        "position_x": 37.5769,
+        "position_y": 55.5693
+    },
+    {
+        "no": 192,
+        "line": "10",
+        "name": "Физтех",
+        "position_z": 0,
+        "position_x": 37.5465,
+        "position_y": 55.9216
+    },
+    {
+        "no": 193,
+        "line": "10",
+        "name": "Лианозово",
+        "position_z": 0,
+        "position_x": 37.5446,
+        "position_y": 55.8989
+    },
+    {
+        "no": 194,
+        "line": "10",
+        "name": "Яхромская",
+        "position_z": 0,
+        "position_x": 37.5454,
+        "position_y": 55.8799
+    },
+    {
+        "no": 195,
+        "line": "10",
+        "name": "Селигерская",
+        "position_z": -20.0,
+        "position_x": 37.5471,
+        "position_y": 55.8665
+    },
+    {
+        "no": 196,
+        "line": "10",
+        "name": "Верхние Лихоборы",
+        "position_z": -65.0,
+        "position_x": 37.561,
+        "position_y": 55.856
+    },
+    {
+        "no": 197,
+        "line": "10",
+        "name": "Окружная",
+        "position_z": -65.0,
+        "position_x": 37.573971,
+        "position_y": 55.846096
+    },
+    {
+        "no": 198,
+        "line": "10",
+        "name": "Петровско-Разумовская",
+        "position_z": -61.0,
+        "position_x": 37.5745,
+        "position_y": 55.8351
+    },
+    {
+        "no": 199,
+        "line": "10",
+        "name": "Фонвизинская",
+        "position_z": -65.0,
+        "position_x": 37.5881,
+        "position_y": 55.8228
+    },
+    {
+        "no": 200,
+        "line": "10",
+        "name": "Бутырская",
+        "position_z": -60.0,
+        "position_x": 37.6028,
+        "position_y": 55.8133
+    },
+    {
+        "no": 201,
+        "line": "10",
+        "name": "Марьина Роща",
+        "position_z": -60.0,
+        "position_x": 37.6162,
+        "position_y": 55.7954
+    },
+    {
+        "no": 202,
+        "line": "10",
+        "name": "Достоевская",
+        "position_z": -60.0,
+        "position_x": 37.6151,
+        "position_y": 55.7816
+    },
+    {
+        "no": 203,
+        "line": "10",
+        "name": "Трубная",
+        "position_z": -60.0,
+        "position_x": 37.62,
+        "position_y": 55.7688
+    },
+    {
+        "no": 204,
+        "line": "10",
+        "name": "Сретенский бульвар",
+        "position_z": -60.0,
+        "position_x": 37.6392,
+        "position_y": 55.7668
+    },
+    {
+        "no": 205,
+        "line": "10",
+        "name": "Чкаловская",
+        "position_z": -51.0,
+        "position_x": 37.6573,
+        "position_y": 55.7565
+    },
+    {
+        "no": 206,
+        "line": "10",
+        "name": "Римская",
+        "position_z": -54.0,
+        "position_x": 37.6819,
+        "position_y": 55.7463
+    },
+    {
+        "no": 207,
+        "line": "10",
+        "name": "Крестьянская застава",
+        "position_z": -47.0,
+        "position_x": 37.6673,
+        "position_y": 55.7331
+    },
+    {
+        "no": 208,
+        "line": "10",
+        "name": "Дубровка",
+        "position_z": -62.0,
+        "position_x": 37.676,
+        "position_y": 55.7186
+    },
+    {
+        "no": 209,
+        "line": "10",
+        "name": "Кожуховская",
+        "position_z": -12.0,
+        "position_x": 37.6851,
+        "position_y": 55.7074
+    },
+    {
+        "no": 210,
+        "line": "10",
+        "name": "Печатники",
+        "position_z": -5.0,
+        "position_x": 37.727,
+        "position_y": 55.6934
+    },
+    {
+        "no": 211,
+        "line": "10",
+        "name": "Волжская",
+        "position_z": -8.0,
+        "position_x": 37.753,
+        "position_y": 55.6909
+    },
+    {
+        "no": 212,
+        "line": "10",
+        "name": "Люблино",
+        "position_z": -8.0,
+        "position_x": 37.7618,
+        "position_y": 55.6758
+    },
+    {
+        "no": 213,
+        "line": "10",
+        "name": "Братиславская",
+        "position_z": -8.0,
+        "position_x": 37.7505,
+        "position_y": 55.6597
+    },
+    {
+        "no": 214,
+        "line": "10",
+        "name": "Марьино",
+        "position_z": -8.0,
+        "position_x": 37.7431,
+        "position_y": 55.65
+    },
+    {
+        "no": 215,
+        "line": "10",
+        "name": "Борисово",
+        "position_z": -10.0,
+        "position_x": 37.7436,
+        "position_y": 55.6334
+    },
+    {
+        "no": 216,
+        "line": "10",
+        "name": "Шипиловская",
+        "position_z": -10.0,
+        "position_x": 37.7437,
+        "position_y": 55.6211
+    },
+    {
+        "no": 217,
+        "line": "10",
+        "name": "Зябликово",
+        "position_z": -15.0,
+        "position_x": 37.7453,
+        "position_y": 55.6124
+    },
+    {
+        "no": 218,
+        "line": "11",
+        "name": "Савеловская",
+        "position_z": -65.0,
+        "position_x": 37.587,
+        "position_y": 55.7934
+    },
+    {
+        "no": 219,
+        "line": "11",
+        "name": "Петровский парк",
+        "position_z": -25.0,
+        "position_x": 37.557221,
+        "position_y": 55.791867
+    },
+    {
+        "no": 220,
+        "line": "11",
+        "name": "ЦСКА",
+        "position_z": -28.0,
+        "position_x": 37.533222,
+        "position_y": 55.786574
+    },
+    {
+        "no": 221,
+        "line": "11",
+        "name": "Хорошевская",
+        "position_z": -21.0,
+        "position_x": 37.519124,
+        "position_y": 55.776695
+    },
+    {
+        "no": 222,
+        "line": "11",
+        "name": "Народное Ополчение",
+        "position_z": -28.0,
+        "position_x": 37.485072,
+        "position_y": 55.775701
+    },
+    {
+        "no": 223,
+        "line": "11",
+        "name": "Мневники",
+        "position_z": -27.0,
+        "position_x": 37.47139,
+        "position_y": 55.761152
+    },
+    {
+        "no": 224,
+        "line": "11",
+        "name": "Терехово",
+        "position_z": -22.0,
+        "position_x": 37.4596,
+        "position_y": 55.748
+    },
+    {
+        "no": 225,
+        "line": "11",
+        "name": "Кунцевская",
+        "position_z": -31.2,
+        "position_x": 37.446,
+        "position_y": 55.7288
+    },
+    {
+        "no": 226,
+        "line": "11",
+        "name": "Давыдково",
+        "position_z": -33.0,
+        "position_x": 37.4517,
+        "position_y": 55.7152
+    },
+    {
+        "no": 227,
+        "line": "11",
+        "name": "Аминьевская",
+        "position_z": -14.0,
+        "position_x": 37.4651,
+        "position_y": 55.6971
+    },
+    {
+        "no": 228,
+        "line": "11",
+        "name": "Мичуринский проспект",
+        "position_z": -19.0,
+        "position_x": 37.4853,
+        "position_y": 55.6882
+    },
+    {
+        "no": 229,
+        "line": "11",
+        "name": "Проспект Вернадского",
+        "position_z": -16.0,
+        "position_x": 37.504,
+        "position_y": 55.6784
+    },
+    {
+        "no": 230,
+        "line": "11",
+        "name": "Новаторская",
+        "position_z": -11.0,
+        "position_x": 37.5221,
+        "position_y": 55.6699
+    },
+    {
+        "no": 231,
+        "line": "11",
+        "name": "Воронцовская",
+        "position_z": -21.0,
+        "position_x": 37.5393,
+        "position_y": 55.6589
+    },
+    {
+        "no": 232,
+        "line": "11",
+        "name": "Зюзино",
+        "position_z": -17.5,
+        "position_x": 37.5735,
+        "position_y": 55.6558
+    },
+    {
+        "no": 233,
+        "line": "11",
+        "name": "Каховская",
+        "position_z": -8.0,
+        "position_x": 37.5983,
+        "position_y": 55.653
+    },
+    {
+        "no": 234,
+        "line": "11",
+        "name": "Варшавская",
+        "position_z": -9.0,
+        "position_x": 37.6194,
+        "position_y": 55.6533
+    },
+    {
+        "no": 235,
+        "line": "11",
+        "name": "Каширская",
+        "position_z": -7.0,
+        "position_x": 37.6487,
+        "position_y": 55.6551
+    },
+    {
+        "no": 236,
+        "line": "11",
+        "name": "Кленовый бульвар",
+        "position_z": -24.3,
+        "position_x": 37.682269444444444,
+        "position_y": 55.67488055555555
+    },
+    {
+        "no": 237,
+        "line": "11",
+        "name": "Нагатинский Затон",
+        "position_z": -27.0,
+        "position_x": 37.70356805555556,
+        "position_y": 55.68442194444444
+    },
+    {
+        "no": 238,
+        "line": "11",
+        "name": "Печатники",
+        "position_z": -30.0,
+        "position_x": 37.727361111111115,
+        "position_y": 55.694599999999994
+    },
+    {
+        "no": 239,
+        "line": "11",
+        "name": "Текстильщики",
+        "position_z": -22.0,
+        "position_x": 37.728343888888894,
+        "position_y": 55.708470000000005
+    },
+    {
+        "no": 240,
+        "line": "11",
+        "name": "Нижегородская",
+        "position_z": -21.8,
+        "position_x": 37.728327,
+        "position_y": 55.732471
+    },
+    {
+        "no": 241,
+        "line": "11",
+        "name": "Авиамоторная",
+        "position_z": -19.4,
+        "position_x": 37.716619,
+        "position_y": 55.751436
+    },
+    {
+        "no": 242,
+        "line": "11",
+        "name": "Лефортово",
+        "position_z": -26.0,
+        "position_x": 37.706759,
+        "position_y": 55.764698
+    },
+    {
+        "no": 243,
+        "line": "11",
+        "name": "Электрозаводская",
+        "position_z": -20.0,
+        "position_x": 37.703013,
+        "position_y": 55.780292
+    },
+    {
+        "no": 244,
+        "line": "11",
+        "name": "Сокольники",
+        "position_z": -34.0,
+        "position_x": 37.678888888888885,
+        "position_y": 55.79111111111111
+    },
+    {
+        "no": 245,
+        "line": "11",
+        "name": "Рижская",
+        "position_z": -63.5,
+        "position_x": 37.635888888888886,
+        "position_y": 55.79380555555555
+    },
+    {
+        "no": 246,
+        "line": "11",
+        "name": "Марьина Роща",
+        "position_z": -74.0,
+        "position_x": 37.617266666666666,
+        "position_y": 55.798366666666666
+    },
+    {
+        "no": 247,
+        "line": "12",
+        "name": "Битцевский парк",
+        "position_z": -10.0,
+        "position_x": 37.5562,
+        "position_y": 55.6004
+    },
+    {
+        "no": 248,
+        "line": "12",
+        "name": "Лесопарковая",
+        "position_z": -10.0,
+        "position_x": 37.5769,
+        "position_y": 55.5821
+    },
+    {
+        "no": 249,
+        "line": "12",
+        "name": "Улица Старокачаловская",
+        "position_z": -10.0,
+        "position_x": 37.5767,
+        "position_y": 55.569
+    },
+    {
+        "no": 250,
+        "line": "12",
+        "name": "Улица Скобелевская",
+        "position_z": 9.6,
+        "position_x": 37.5546,
+        "position_y": 55.5481
+    },
+    {
+        "no": 251,
+        "line": "12",
+        "name": "Бульвар Адмирала Ушакова",
+        "position_z": 9.6,
+        "position_x": 37.543,
+        "position_y": 55.5455
+    },
+    {
+        "no": 252,
+        "line": "12",
+        "name": "Улица Горчакова",
+        "position_z": 9.6,
+        "position_x": 37.5308,
+        "position_y": 55.5418
+    },
+    {
+        "no": 253,
+        "line": "12",
+        "name": "Бунинская аллея",
+        "position_z": 9.6,
+        "position_x": 37.5158,
+        "position_y": 55.538
+    },
+    {
+        "no": 254,
+        "line": "15",
+        "name": "Нижегородская",
+        "position_z": -21.8,
+        "position_x": 37.728327,
+        "position_y": 55.732471
+    },
+    {
+        "no": 255,
+        "line": "15",
+        "name": "Стахановская",
+        "position_z": -19.0,
+        "position_x": 37.752257,
+        "position_y": 55.727207
+    },
+    {
+        "no": 256,
+        "line": "15",
+        "name": "Окская",
+        "position_z": -21.0,
+        "position_x": 37.781277,
+        "position_y": 55.718623
+    },
+    {
+        "no": 257,
+        "line": "15",
+        "name": "Юго-Восточная",
+        "position_z": -20.0,
+        "position_x": 37.817998,
+        "position_y": 55.705352
+    },
+    {
+        "no": 258,
+        "line": "15",
+        "name": "Косино",
+        "position_z": -27.0,
+        "position_x": 37.850998,
+        "position_y": 55.703423
+    },
+    {
+        "no": 259,
+        "line": "15",
+        "name": "Улица Дмитриевского",
+        "position_z": -18.0,
+        "position_x": 37.879945,
+        "position_y": 55.710176
+    },
+    {
+        "no": 260,
+        "line": "15",
+        "name": "Лухмановская",
+        "position_z": -15.0,
+        "position_x": 37.900963,
+        "position_y": 55.708495
+    },
+    {
+        "no": 261,
+        "line": "15",
+        "name": "Некрасовка",
+        "position_z": -16.0,
+        "position_x": 37.928207,
+        "position_y": 55.702884
+    }
+]

@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div#github {
+    position: absolute;
+    bottom: 1vh;
+    right: 1vw;
+}
+
+div#github img {
+    width: 20px;
+    height: 20px;
+}
+
+div#options label {
+    display: block;
+    margin-bottom: 1vh;
+    font-size: 1em;
+}
+
+div#options div {
+    margin-top: 2vh;
+}
+
+div#options {
+    position: absolute;
+    top: 1vh;
+    left: 1vw;
+    padding: 1vw;
+    border-radius: 1vw;
+    background-color: rgb(200, 200, 200, 0.5);
+    max-width: 40vw;
+}
+
+div#options h1 {
+    margin: 2vh 0;
+    padding: 0;
+    font-size: 1.618em;
+}
