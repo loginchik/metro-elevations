@@ -26,6 +26,9 @@ if ( WebGL.isWebGL2Available() ) {
     document.body.appendChild( renderer.domElement );
 
     let stationObjects = [];
+    let lineObjects = [];
+    let intersectionObjects = [];
+    
     /**
      * Animation cycle
      */
@@ -43,6 +46,22 @@ if ( WebGL.isWebGL2Available() ) {
         renderer.setSize(window.innerWidth, window.innerHeight);
     }
     window.addEventListener('resize', onWindowResize);
+
+    const optionsDiv = document.querySelector('#options');
+    optionsDiv.style.display = 'none';
+
+    const intersectionSwitcher = document.querySelector('#check-intersections');
+    intersectionSwitcher.addEventListener('change', () => {
+        intersectionObjects.map(obj => { obj.visible = !obj.visible; })
+    });
+    const linesSwitcher = document.querySelector('#check-lines');
+    linesSwitcher.addEventListener('change', () => {
+        lineObjects.map(obj => {obj.visible = !obj.visible })
+    });
+    const stationsSwitcher = document.querySelector('#check-stations');
+    stationsSwitcher.addEventListener('change', () => {
+        stationObjects.map(obj => {obj.visible = !obj.visible })
+    });
 
 
     /** 
@@ -88,6 +107,7 @@ if ( WebGL.isWebGL2Available() ) {
             })
             // Draw lines between stations
             .then(connections => {
+                lineObjects = connections;
                 scene.add(...connections);
                 // const zeroYPosition = normalizeToRange(0, stationsData.minY, stationsData.maxY, constants.MIN_Y_SCALE, constants.MAX_Y_SCALE);
                 // scene.add( ...drawOrientationLines(zeroYPosition) );
@@ -95,13 +115,16 @@ if ( WebGL.isWebGL2Available() ) {
             })
             .then(intersections => {
                 const material = new THREE.LineBasicMaterial({ color: "#efefef" });
-                intersections.map(intersection => scene.add(new THREE.Line(intersection, material)));
+                intersections.map(intersection => intersectionObjects.push(new THREE.Line(intersection, material)));
+                scene.add(...intersectionObjects);
                 renderer.setAnimationLoop( animate );
             })
             .catch(err => {
                 console.log(err.message);
                 showErrorMessage();
             });
+
+        optionsDiv.style.display = 'block';
     }
     
 	loadData();

@@ -31,18 +31,14 @@ export async function drawStations(renderer, colors, source, errorFunc) {
         const minZ = Math.min(...zPositions), maxZ = Math.max(...zPositions);
 
         // All stations use same geometry 
-        const stationGeometry = new THREE.SphereGeometry(0.7, 10, 10);
+        const stationGeometry = new THREE.SphereGeometry(0.7, 6, 6);
         console.log(`Loading ${stations.length} stations`);
         // Create object for each station
         const objects = [];
         const stationsData = {};
         stations.map(station => {
             // Mesh
-            const currentMaterial = new THREE.MeshBasicMaterial({ 
-                color: colors[station.line] || "#000000", 
-                transparent: true,
-                opacity: 0.9
-            });
+            const currentMaterial = new THREE.MeshBasicMaterial({ color: colors[station.line] || "#000000" });
             const stationObject = new THREE.Mesh( stationGeometry, currentMaterial );
             // Normalize coordinates and measures 
             const normalizedX = normalizeToRange(station.position_x, minX, maxX, constants.MIN_X_SCALE, constants.MAX_X_SCALE) * -1;

@@ -8,7 +8,32 @@
 		</style>
 	</head>
 	<body>
+		<h1>Moscow Metro Elevations</h1>
 		<p id="error-message" style="display: none;">Error loading resourses :(</p>
 		<script type="module" src="src/js/main.js"></script>
+		<div id="options" style="display: none;">
+			<label>
+				<input type="checkbox" id="check-intersections" checked>
+				Show intersections 
+			</label>
+			<label>
+				<input type="checkbox" id="check-lines" checked>
+				Show lines 
+			</label>
+			<label>
+				<input type="checkbox" id="check-stations" checked>
+				Show stations 
+			</label>
+			<div>
+				Use mouse to rotate, cmd / ctrl + mouse to move around
+			</div>
+		</div>
+		
+		<div id="github">
+			<a href="github.com">
+				<img src="github-mark-white.png">
+			</a>
+		</div>
+		
 	</body>
 </html>
