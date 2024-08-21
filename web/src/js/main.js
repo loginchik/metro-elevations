@@ -7,6 +7,7 @@ import { drawConnections } from './drawConnections';
 import * as constants from './contants';
 import { normalizeToRange } from './utils';
 import { drawOrientationLines } from './drawOrientationLines';
+import { drawIntersections } from './drawIntersections';
 
 
 if ( WebGL.isWebGL2Available() ) {
@@ -88,9 +89,13 @@ if ( WebGL.isWebGL2Available() ) {
             // Draw lines between stations
             .then(connections => {
                 scene.add(...connections);
-                const zeroYPosition = normalizeToRange(0, stationsData.minY, stationsData.maxY, constants.MIN_Y_SCALE, constants.MAX_Y_SCALE);
-                scene.add( ...drawOrientationLines(zeroYPosition) );
-
+                // const zeroYPosition = normalizeToRange(0, stationsData.minY, stationsData.maxY, constants.MIN_Y_SCALE, constants.MAX_Y_SCALE);
+                // scene.add( ...drawOrientationLines(zeroYPosition) );
+                return drawIntersections(renderer, stationsData.data, '/intersections.json', showErrorMessage);
+            })
+            .then(intersections => {
+                const material = new THREE.LineBasicMaterial({ color: "#efefef" });
+                intersections.map(intersection => scene.add(new THREE.Line(intersection, material)));
                 renderer.setAnimationLoop( animate );
             })
             .catch(err => {

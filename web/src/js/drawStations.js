@@ -45,7 +45,7 @@ export async function drawStations(renderer, colors, source, errorFunc) {
             });
             const stationObject = new THREE.Mesh( stationGeometry, currentMaterial );
             // Normalize coordinates and measures 
-            const normalizedX = normalizeToRange(station.position_x, minX, maxX, constants.MIN_X_SCALE, constants.MAX_X_SCALE);
+            const normalizedX = normalizeToRange(station.position_x, minX, maxX, constants.MIN_X_SCALE, constants.MAX_X_SCALE) * -1;
             const normalizedY = normalizeToRange(station.position_z, minZ, maxZ, constants.MIN_Y_SCALE, constants.MAX_Y_SCALE);
             const normalizedZ = normalizeToRange(station.position_y, minY, maxY, constants.MIN_Z_SCALE, constants.MAX_Z_SCALE);
             stationObject.position.set(normalizedX, normalizedY, normalizedZ);

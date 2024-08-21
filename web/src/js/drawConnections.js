@@ -19,7 +19,6 @@ export async function drawConnections(renderer, stations, colors, source, errorF
                                 })
 
     if (renderer.domElement.style.display !== 'none') {
-        
         // Get stations on lines in ascending order 
         const lines = {}
         connections.forEach(connection => {
@@ -41,6 +40,11 @@ export async function drawConnections(renderer, stations, colors, source, errorF
             const lineVectors = [];
             for (const stationNo of lines[line]) {
                 lineVectors.push(stations[stationNo])
+            }
+            if (line == '11') {
+                lineVectors.push(stations[218]);
+            } else if (line == '5') {
+                lineVectors.push(stations[86]);
             }
             const geometry = new THREE.BufferGeometry().setFromPoints(lineVectors);
             const material = new THREE.LineBasicMaterial({ 

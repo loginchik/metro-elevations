@@ -1,4 +1,4 @@
-const horizontalScale = 100;
+const horizontalScale = 150;
 const verticalScale = 30;
 
 export const MIN_X_SCALE = horizontalScale * -1;
