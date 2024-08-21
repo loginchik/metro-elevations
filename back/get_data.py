@@ -65,6 +65,7 @@ with open('../web/public/stations.json', 'w', encoding='utf-8') as output_file:
 
 
 connections = []
+connection_id = 1
 for station in stations:
     current_id = station['no']
     current_line = station['line']
@@ -72,11 +73,13 @@ for station in stations:
     for station_other in stations:
         if station_other['line'] == current_line and station_other['no'] == current_id + 1:
             connections.append({
+                'id': connection_id,
                 'from': current_id, 
                 'to': station_other['no'],
                 'type': 'train', 
                 'line': current_line
             })
+            connection_id += 1
 
 
 with open('../web/public/connections.json', 'w', encoding='utf-8') as output_file:

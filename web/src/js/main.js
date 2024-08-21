@@ -2,7 +2,11 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
 import WebGL from 'three/addons/capabilities/WebGL.js';
 
-import { drawStations, drawConnections } from './drawStations';
+import { drawStations } from './drawStations';
+import { drawConnections } from './drawConnections';
+import * as constants from './contants';
+import { normalizeToRange } from './utils';
+import { drawOrientationLines } from './drawOrientationLines';
 
 
 if ( WebGL.isWebGL2Available() ) {
@@ -16,10 +20,11 @@ if ( WebGL.isWebGL2Available() ) {
     // Configure renderer 
     const renderer = new THREE.WebGLRenderer();
     renderer.setSize( window.innerWidth, window.innerHeight );
-    renderer.setClearColor('#efefef');
+    renderer.setClearColor('#242424');
     renderer.setPixelRatio(2);
     document.body.appendChild( renderer.domElement );
 
+    let stationObjects = [];
     /**
      * Animation cycle
      */
@@ -64,17 +69,28 @@ if ( WebGL.isWebGL2Available() ) {
             renderer.domElement.style.display = 'none';
         }
         
+        let projectColors;
+        let stationsData;
         fetch('/colors.json')
             // Fetch colors 
             .then(response => response.json())
-            .then(colors => drawStations(renderer, colors, '/stations.json'))
+            .then(colors => {
+                projectColors = colors;
+                return drawStations(renderer, colors, '/stations.json', showErrorMessage)
+            })
             // Create station objects 
             .then(stations => {
-                scene.add(...stations);
-                return drawConnections();
+                scene.add(...stations.objects);
+                stationObjects = stations.objects;
+                stationsData = stations;
+                return drawConnections(renderer, stationsData.data, projectColors, '/connections.json', showErrorMessage);
             })
+            // Draw lines between stations
             .then(connections => {
-                // scene.add(...connections);
+                scene.add(...connections);
+                const zeroYPosition = normalizeToRange(0, stationsData.minY, stationsData.maxY, constants.MIN_Y_SCALE, constants.MAX_Y_SCALE);
+                scene.add( ...drawOrientationLines(zeroYPosition) );
+
                 renderer.setAnimationLoop( animate );
             })
             .catch(err => {

@@ -8,4 +8,4 @@ export const MAX_Y_SCALE = verticalScale;
 export const MIN_Z_SCALE = horizontalScale * -1;
 export const MAX_Z_SCALE = horizontalScale;
 
-export const DEFAULT_COLOR =  "#000000";
+export const DEFAULT_COLOR =  "#ededed";
